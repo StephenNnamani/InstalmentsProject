@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\bin\Debug\net6.0\InstalmentsProject.exe
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\bin\Debug\net6.0\InstalmentsProject.deps.json
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\bin\Debug\net6.0\InstalmentsProject.runtimeconfig.json
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\bin\Debug\net6.0\InstalmentsProject.dll
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\bin\Debug\net6.0\InstalmentsProject.pdb
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\obj\Debug\net6.0\InstalmentsProject.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\obj\Debug\net6.0\InstalmentsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\obj\Debug\net6.0\InstalmentsProject.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\obj\Debug\net6.0\InstalmentsProject.AssemblyInfo.cs
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\obj\Debug\net6.0\InstalmentsProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\obj\Debug\net6.0\InstalmentsProject.dll
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\obj\Debug\net6.0\refint\InstalmentsProject.dll
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\obj\Debug\net6.0\InstalmentsProject.pdb
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\obj\Debug\net6.0\InstalmentsProject.genruntimeconfig.cache
+C:\Users\USER\source\repos\Project 01\InstalmentsProject\InstalmentsProject\obj\Debug\net6.0\ref\InstalmentsProject.dll
