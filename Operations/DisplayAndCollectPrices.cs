@@ -29,7 +29,6 @@ namespace InstalmentsProject.Operations
                         Console.WriteLine("");
                         Utility.DisplayCompany("Kindly select the number of the product you wish to buy!!");
                         selection = Convert.ToInt32(Console.ReadLine());
-                        Console.WriteLine(selection);
                         numTries--;
                     }
                     else if (numTries == 1)
