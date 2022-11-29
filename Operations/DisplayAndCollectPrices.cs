@@ -7,14 +7,15 @@ using InstalmentsProject.UI;
 
 namespace InstalmentsProject.Operations
 {
-    internal class DisplayAndCollectPrices
+    internal static class DisplayAndCollectPrices
     {
         public static int asus = 120000; public static int hpElitebook = 100000; public static int macBookAir = 720000; public static int alianWare = 1200000;
-        public static int Products()
+        public static double Price { get; set; }
+        public static void Products()
         {
             WelcomeNote.Welcome();
             Console.WriteLine("1. Asus 63D\tN120,000 \t\t2. HP Elitebook 8570p\tN100,000 \n3. MacBook Air \tN720,000 \t\t4. AlienWare 2022\tN1,200,000 ");
-            int price = 0;
+            //int price = 0;
             int selection = 0;
             int numTries = 3;
             while (selection < 1 || selection > 4)
@@ -54,22 +55,21 @@ namespace InstalmentsProject.Operations
             }
             if (selection == 1)
             {
-                price = asus;
+                Price = asus;
             }
             else if (selection == 2)
             {
-                price = hpElitebook;
+                Price = hpElitebook;
             }
             else if (selection == 3)
             {
-                price = macBookAir;
+                Price = macBookAir;
             }
             else if (selection == 4)
             {
-                price = alianWare;
+                Price = alianWare;
             }
 
-            return price;
         }
     }
 }

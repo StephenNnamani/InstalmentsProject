@@ -46,5 +46,15 @@ namespace InstalmentsProject.UI
             Thread.Sleep(00);
             Console.ResetColor();
         }
+        public static void Loading()
+        {
+            for(int i = 0; i>10; i++)
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.Write(".");
+                Thread.Sleep(300);
+                Console.ResetColor();
+            }
+        }
     }
 }

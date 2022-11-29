@@ -4,16 +4,13 @@
     {
         public static double premium = 0.20D; public static double gold = 0.3D; public static double executive = 0.5D;
 
-        private static double MySelection { get; set; }
-        public static double PaymentOption()
+        public static double MySelection { get; set; }
+        public static void PaymentOption()
         {
             string lines = Utility.Lines();
-            Console.Clear();
-            Utility.DisplayCompany(lines);
             Console.WriteLine("");
             int myOption = 0;
             int numTries = 3;
-
             while (myOption < 1 || myOption > 3)
             {
                 try
@@ -63,8 +60,6 @@
             {
                 MySelection = executive;
             }
-
-            return MySelection;
         }
     }
 }

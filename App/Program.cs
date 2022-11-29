@@ -9,6 +9,9 @@ namespace InstalmentsProject.App
         public static int maxTry = 3;
         static void Main()
         {
+            DisplayAndCollectPrices.Products();
+            PaymentOptions.PaymentOption();
+            UserCheck.userEmployment();
             CountdownInstalments.CountDownInstalments();
             Console.Clear();
             Utility.ScreenColor("Congratulation!!! You have cleared your debts");
@@ -26,6 +29,9 @@ namespace InstalmentsProject.App
                     if (newSession.Contains("1"))
                     {
                         numTries = 0;
+                        DisplayAndCollectPrices.Products();
+                        PaymentOptions.PaymentOption();
+                        UserCheck.userEmployment();
                         CountdownInstalments.CountDownInstalments();
                     }
                     else if (newSession.Contains("2"))
